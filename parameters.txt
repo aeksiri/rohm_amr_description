@@ -1,0 +1,7 @@
+1. Base footprint (rectangle) = 530 x 1,018 [mm]
+2. Base footprint (radius) = 1071 [mm]
+3. Wheel diameter = 110 [mm]
+4. Wheel separate = 376 [mm]
+5. Base footprint to the top = 977 [mm]
+6. Drive wheel speed = 100 [RPM], 10.4719755 [rad/s]
+7. Drive wheel torque =  [N-m]
