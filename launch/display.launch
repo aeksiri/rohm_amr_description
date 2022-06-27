@@ -16,5 +16,5 @@
     name="rviz"
     pkg="rviz"
     type="rviz"
-    args="-d $(find rohm_amr_description)/urdf.rviz" />
+    args="-d $(find rohm_amr_description)/rviz/display.rviz" />
 </launch>
